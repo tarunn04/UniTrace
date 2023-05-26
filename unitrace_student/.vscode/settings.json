@@ -1,0 +1,14 @@
+{
+    "dart.hotReloadOnSave": "all",
+    "workbench.colorCustomizations":{
+        "editorInfo.foreground": "#ff000000",
+        "debugConsole.infoForeground": "#ffffff"
+    },
+
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 500,
+    "dart.flutterHotReloadOnSave": "all",
+    "dart.hotReloadonSave":"all", 
+}
+
+
